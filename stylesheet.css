@@ -1,0 +1,540 @@
+
+/* SIMPLE CALCULATOR CSS */
+/* .screen {
+    width:100px;
+    margin: auto;
+    height: 30px;
+    background-color: inherit;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} */
+/* body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+    background-color: lightblue;
+} */
+/* .all{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 5px solid;
+}
+.totalopr{
+    color: antiquewhite;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(75, 75, 75);
+    display: inline-block;
+    border: 5px solid grey;
+}
+.operations{
+    color: antiquewhite;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 5px solid grey;
+    display: inline-block;
+    background-color: rgb(75, 75, 75);
+}
+#one{
+    color: black;
+    background-color: inherit;
+    border: 2px solid;
+}
+#two{
+    color: black;
+    background-color: inherit;
+    border: 2px solid;
+}
+.dis{
+    display: flex;
+    padding: 20px
+}
+#btn{
+    background-color: lightgray;
+    /* width: 50%; */
+    /* display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    margin: 20%;
+} */ 
+
+
+
+
+/* IMAGES SLIDING CSS */
+/* body {
+    background-color: lightblue;
+}
+.image-container {
+    width: 300px;
+    height: 150px;
+    overflow: hidden;
+    position: relative;
+}
+
+.image {
+    width: 300px;
+    height: 150px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: left 1s ease-in-out;
+}
+.image img{
+    width: 100%;
+    height: 100%;
+} */
+
+
+/* QUOTE GENERATOR */
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lato',sans-serif;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150vh;
+    text-align: center;
+    flex-direction: column;
+    background: url(./geometry-background-4k-z3.jpg)no-repeat center center/ cover;
+}
+.container{
+    width: 510px;
+    height: 450px;
+    border: 3px solid;
+    margin-top: -20%;
+}
+.header{
+    font-size: 1.1rem;
+    border: 2px solid wheat;
+    border-radius: 20px;
+    color: wheat;
+    background-color: rgb(32, 32, 32);
+    padding: 6px;
+    width: 80%;
+    margin: 20px auto;
+}
+.main-content{
+    width: 100%;
+    height: auto;
+    background-color: rgb(255, 255, 255);
+    border: 4px solid inherit;
+    border-radius: 15px;
+    padding: 50px 40px;
+}
+.main-content .text-area{
+    font-size: 1.7rem;
+    line-height: 1.7;
+}
+.main-content .person{
+    font-size: 1.5rem;
+    color: rgb(255, 0, 17);
+    text-transform: uppercase;
+    margin-top: 20px;
+}
+.button-area button{
+    background-color: rgb(0, 0, 0);
+    color: #fff;
+    padding: 10px 15px;
+    margin-top: 20px;
+    border-radius: 4px;
+    font-size: 0.9rem;
+    text-decoration: none;
+    border: none;
+    transition: all 0.1s ease;
+}
+.button-area button:active{
+    background-color: rgb(255, 255, 255);
+    transition: all 0.2s ease;
+    padding: 12px 17px;
+}
+
+
+
+
+#quoteForm {
+    display: flex;
+    flex-direction: column;
+    width: 510px;
+    height: 450px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    justify-content: center;
+    text-align: center;
+}
+
+#quoteInput,
+#nameInput {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    height: 50px;
+    width: 100%;
+}
+
+#enterdvalues{
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: larger;
+    transition: background-color 0.3s ease;
+}
+
+#enterdvalues:hover {
+    background-color: #45a049;
+}
+.seconddiv{
+    margin-top: 10%;
+}
+#quoteForm h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.2rem;
+        border: 2px solid wheat;
+        border-radius: 25px;
+        color: wheat;
+        background-color: rgb(32, 32, 32);
+        padding: 16px;
+        margin-bottom: 20px;
+        margin-top: -20%;
+}
+.ads{
+    padding: 10px 20px;
+        background-color: #414141;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+        margin-top: 10%;
+        font-size: 15px;
+}
+.ads:hover {
+    background-color: #fff;
+    color: #000000;
+} */
+
+
+/* Image Popup */
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+}
+body{
+    background: url(./4k-batman-michael-keaton-87.jpg) no-repeat center center/cover;
+    height: 100vh;
+    position: relative;
+}
+#open-btn{
+    position: absolute;
+    top: 70%;
+    left: 10%;
+    width: 340px;
+    height: 60px;
+    font-size: 2rem;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    background: transparent;
+    color: aliceblue;
+    border: solid 2px #fff;
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 0 0 5px whitesmoke;
+    transition: 0.5s;
+}
+#open-btn:hover{
+    background-color: white;
+    color: black;
+}
+.model{
+    background-color: #fff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 200px;
+    height: 100px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+    animation-name: animatemodel;
+    animation-duration : .4s;
+}
+
+#close-btn{
+    font-size: 3rem;
+
+}
+#close-btn{
+    cursor: pointer;
+    font-size: 3rem;
+    color: #ff0000;
+}
+.modal-container{
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+@keyframes animatemodel {
+    from{
+        top: 10%;
+        opacity: 0;
+    }
+    to{
+        top: 50%;
+        opacity: 1;
+    }
+} */
+
+
+/* Frequently asked questions site */
+/* body{
+    background: url(./pexels-leeloo-thefirst-5428836.jpg) no-repeat center center/cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.accordion{
+    width: 80%;
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 30px;
+}
+.accordion .accordion-title{
+    margin-bottom: 30px;
+    text-align: center;
+    font-size: 2rem;
+}
+.accordion .container .question{
+    padding: 18px 0px;
+    font-size: 22px;
+    cursor: pointer;
+    border-bottom: 1px solid black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 500;
+    position: relative;
+}
+
+.accordion .container .question::after{
+    content: '+';
+    position: absolute;
+    right: -5px;
+}
+.accordion .container .answer{
+    padding-top: 15px;
+    font-size: 22px;
+    line-height: 1.5;
+    width: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+    height: 0px;
+    overflow: hidden;
+    transition: .5s;
+}
+.accordion .container.active .answer{
+    height: 200px;
+}
+.accordion .container.active .question::after{
+    content: '-';
+    font-size: 30px;
+    transition: .5s;
+}
+
+*/  /* active is the classname we assigned from js using "this" in addeventlistener */
+
+/* TIMER */
+/* body{
+    height: 100vh;
+    background: url(./thumbbig-1018167.webp) no-repeat center center/cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    width: 60%;
+    height: 250px;
+    background-color: antiquewhite;
+    box-shadow: 0 0 13px;
+    border-radius: 30px;
+}
+#timer{
+    width: 100%;
+    font-size: 82px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.buttons{
+    text-align: center;
+}
+button{
+    margin: 0 10px;
+    transition: all 0.5s;
+}
+
+button .material-symbols-outlined{
+    font-size: 2.5rem;
+}
+
+#startbtn{
+    color: white;
+    background-color: green;
+    border-radius: 20px;
+    padding: 5px;
+}
+#resetbtn{
+    color: white;
+        background-color: rgb(255, 24, 24);
+        border-radius: 20px;
+        padding: 5px;
+} */
+
+body {
+    height: 100vh;
+    background: url(./mountains-trees-forest-3d-minimalism-ku.jpg) no-repeat center center/cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    background-color: black;
+    border-radius: 10px;
+}
+header img{
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+}
+header h1{
+    font-size: 1.5rem;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+}
+.conatiner{
+    width: 95%;
+    height: 100%;
+    background-color: inherit;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    box-shadow: 0 0 9px rgb(61, 60, 60);
+    overflow-y: scroll;
+    overflow: scroll;
+    position: relative;
+    border-radius: 10px;
+}
+
+.title{
+    color: white;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-bottom: auto;
+    border-radius: 5px;
+    height: auto;
+    font-size: 4rem;
+    background-color: grey;
+    padding: 10px;
+}
+.conatiner .inputcont{
+    margin-bottom: auto;
+}
+.conatiner .inputcont input{
+    width: 250px;
+    height: 40px;
+    border-radius: 5px;
+}
+.conatiner .inputcont button{
+    width: 60px;
+    height: 100%;
+    border-radius: 5px;
+    font-family:sans-serif;
+    font-weight: 500;
+}
+.outputlist{
+    /* background-color: aqua; */
+    margin-bottom: auto;
+    width: 90%;
+    height: auto;
+}
+.item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    transition: all 0.2s;
+    overflow: auto;
+    height: auto;
+    width: auto;
+    border-radius: 10px;
+    transition: all .5s;
+    margin-bottom: 3px;
+}
+.item h1{
+    color: black;
+    border: none;
+    height: auto;
+    overflow: auto;
+    height: auto;
+    width: auto;
+    white-space: break-word;
+    font-size: medium;
+    padding-left: 10px;
+}
+.item nav{
+    display: flex;
+    justify-content: space-between;
+    gap: 12px;
+}
+.item nav i {
+    font-size: 25px;
+    padding: 10px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+#done{
+    color: green;
+    background-color: whitesmoke;
+    border-radius: 15px;
+    cursor: pointer;
+}
+#delete {
+    color: rgb(255, 0, 0);
+    background-color: whitesmoke;
+    border-radius: 15px;
+    cursor: pointer;
+}
